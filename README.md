@@ -7,6 +7,7 @@ git clone https://github.com/wjwwood/serial.git
 ```
 Then clone the my_serial_node under my_serial
 ```
+git clone https://github.com/threefruits/ros_serial_code.git
 cd ~/catkin_ws
 catkin_make
 ```
